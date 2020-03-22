@@ -11,7 +11,9 @@ This document list useful COVID-19 resources that I found on the web.
 
 1. Handbook of COVID-19 Prevention and Treatment - [Link](https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf)
 
+## Optimistic
 
+1. 'Trump Is Right About the Coronavirus. The WHO Is Wrong,' Says Israeli Expert - [Link](https://www.haaretz.com/israel-news/.premium.MAGAZINE-israeli-expert-trump-is-right-about-covid-19-who-is-wrong-1.8691031)
 
 ## Videos
 
@@ -20,3 +22,4 @@ This document list useful COVID-19 resources that I found on the web.
 2. The lockdown: One month in Wuhan - [Link](https://www.youtube.com/watch?v=XU9FVqwO4TM)
 
    
+
