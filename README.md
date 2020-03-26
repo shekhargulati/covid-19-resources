@@ -21,5 +21,7 @@ This document list useful COVID-19 resources that I found on the web.
 
 2. The lockdown: One month in Wuhan - [Link](https://www.youtube.com/watch?v=XU9FVqwO4TM)
 
-   
+3. Lessons learned from Dr. Djaballah about the COVID-19 - [Link](https://www.youtube.com/watch?v=LVBc7-Te_yA)
+
+    
 
