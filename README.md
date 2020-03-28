@@ -23,5 +23,7 @@ This document list useful COVID-19 resources that I found on the web.
 
 3. Lessons learned from Dr. Djaballah about the COVID-19 - [Link](https://www.youtube.com/watch?v=LVBc7-Te_yA)
 
-    
+4. Viruses vs. Bacteria | What's The Difference? - [Link](https://www.youtube.com/watch?v=P_9DXEnEd-Q)
+
+     
 
